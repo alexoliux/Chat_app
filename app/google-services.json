@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823450789552",
+    "project_id": "chat-app-c82dd",
+    "storage_bucket": "chat-app-c82dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823450789552:android:a9dad1fc574d28a9a77d75",
+        "android_client_info": {
+          "package_name": "mirea.buryakov.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823450789552-nfpng84l75t75lpi95rau7f4nq0l59mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mirea.buryakov.chatapp",
+            "certificate_hash": "589b63c9f82b4d4ba9d2348a39131c95b08ad0f9"
+          }
+        },
+        {
+          "client_id": "823450789552-o74jof4hjrumm8dknof6jjosiorjuubj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9qzF5C31to_GS2ePMy_ZPqMzEpSUt1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823450789552-o74jof4hjrumm8dknof6jjosiorjuubj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
